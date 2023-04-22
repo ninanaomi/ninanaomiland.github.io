@@ -15,18 +15,18 @@ body {
   padding: 32px;
 }
 h2 {
-  background-color: #FF00FF;
   text-align: center;
   font-size: 30px;
   color: #FFFFFF;
 }
 .about {
   font-family: Montserrat, sans-serif;
-  margin: center; 
+  margin: center;
   font-size: 15px;
   color:#FFFFFF;
 }
 section {
   background-color: #FF00FF;
    text-align: center;
+  color: #FFFFFF;
 }
