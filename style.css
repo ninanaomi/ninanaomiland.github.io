@@ -17,16 +17,15 @@ body {
 h2 {
   text-align: center;
   font-size: 30px;
-  color: #FFFFFF;
 }
 .about {
   font-family: Montserrat, sans-serif;
   margin: center;
   font-size: 15px;
-  color:#FFFFFF;
+  color: black;
 }
 section {
   background-color: #FF00FF;
    text-align: center;
-  color: #FFFFFF;
+  color: black;
 }
