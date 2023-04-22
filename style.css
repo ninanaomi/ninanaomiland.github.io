@@ -16,7 +16,7 @@ body {
 }
 h2 {
   background-color: #FF00FF;
-   text-align: center;
+  text-align: center;
   font-size: 30px;
   color: #FFFFFF;
 }
@@ -25,4 +25,8 @@ h2 {
   margin: center; 
   font-size: 15px;
   color:#FFFFFF;
+}
+section {
+  background-color: #FF00FF;
+   text-align: center;
 }
