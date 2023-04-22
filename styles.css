@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  width: 100%;
+  margin:auto;
+  font-family: Orbitron, sans-serif;
+  color: #FF00FF;
+  font-size: 30px;
+}
+.divider {
+  background: white;
+}
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/symbols/sym-8/sym759.ani), url(https://ani.cursors-4u.net/symbols/sym-8/sym759.png), auto !important;} /* End https://www.cursors-4u.com */
